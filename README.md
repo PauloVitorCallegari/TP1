@@ -14,9 +14,9 @@ Carregando imagem:
 
 1. Execute a opção número 1 ( um ) para você carregar uma imagem.
 
-2 Agora, o programa irá te pedir para inserir o caminho de uma imagem ppm p2 ou p3 de sua preferência ou executar a padrão ( basta apertar enter para a opção padrão ).
+2. Agora, o programa irá te pedir para inserir o caminho de uma imagem ppm p2 ou p3 de sua preferência ou executar a padrão ( basta apertar enter para a opção padrão ).
 
-3 Executando a imagem padrão ou a que você especificar o caminho, o programa irá retornar ao menu principal te oferecendo novamente 3 opções e uma mensagem indicando que ocorreu tudo certo.
+3. Executando a imagem padrão ou a que você especificar o caminho, o programa irá retornar ao menu principal te oferecendo novamente 3 opções e uma mensagem indicando que ocorreu tudo certo.
 
 Convertendo imagem para tons de cinza:
 
