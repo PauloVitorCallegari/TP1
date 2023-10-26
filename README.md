@@ -1,10 +1,18 @@
 # TP1
 
-Autores: Paulo Vitor Callegari Dalvi e Ryan Lima Peçanha.
+# 🚀 Começando: 
 
-Construído em: C.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Executando o programa:
+# ✒️ Autores: 
+
+Desenvolvido por: Paulo Vitor Callegari Dalvi e Ryan Lima Peçanha.
+
+# 🛠️ Construído em: 
+
+O tal programa trabalhado aqui foi desenvolvido puramente em C.
+
+# ⚙️ Executando o programa:
 
 1. Abra o programa "Main.exe".
 
@@ -30,13 +38,13 @@ Sair:
 
 1. Digitando 4 ( quatro ) como opção, o programa irá fechar.
 
-# Exemplos:
+# 📋 Exemplos:
 
 1. Exemplos de input para carregar imagem específica: C:\Users\ryan\Desktop\sua_imagem.ppm
 
 2. Exemplo de input para gravar a imagem de maneira específica: C:\Users\ryan\Desktop\sua_imagem_em_tons_de_cinza.ppm
 
-# Principais decisões de implementação:
+# 📌 Principais decisões de implementação:
 
 Estrutura do Programa:
 
