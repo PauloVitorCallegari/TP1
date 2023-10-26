@@ -30,13 +30,13 @@ Sair:
 
 1. Digitando 4 ( quatro ) como opção, o programa irá fechar.
 
-Exemplos:
+# Exemplos:
 
-Exemplos de input para carregar imagem específica: C:\Users\ryan\Desktop\sua_imagem.ppm
+1. Exemplos de input para carregar imagem específica: C:\Users\ryan\Desktop\sua_imagem.ppm
 
-Exemplo de input para gravar a imagem de maneira específica: C:\Users\ryan\Desktop\sua_imagem_em_tons_de_cinza.ppm
+2. Exemplo de input para gravar a imagem de maneira específica: C:\Users\ryan\Desktop\sua_imagem_em_tons_de_cinza.ppm
 
-Principais decisões de implementação:
+# Principais decisões de implementação:
 
 Estrutura do Programa:
 
