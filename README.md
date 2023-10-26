@@ -46,18 +46,10 @@ Sair:
 
 # 📌 Principais decisões de implementação:
 
-Estrutura do Programa:
+1. Estrutura do Programa: O programa principal opera em um loop infinito (while(1)) que exibe um menu para o usuário e aguarda a entrada da escolha do usuário. O loop permite que o usuário realize múltiplas operações sem sair do programa.
 
-O programa principal opera em um loop infinito (while(1)) que exibe um menu para o usuário e aguarda a entrada da escolha do usuário. O loop permite que o usuário realize múltiplas operações sem sair do programa.
+2. Alocação e Liberação de Memória: Antes de carregar uma nova imagem, o programa verifica se uma imagem anterior foi carregada e libera a memória associada a ela, evitando vazamentos de memória.
 
-Alocação e Liberação de Memória:
+3. Comentários: O código contém comentários que explicam as seções importantes do código, o que torna mais fácil entender o que cada parte do programa está fazendo.
 
-Antes de carregar uma nova imagem, o programa verifica se uma imagem anterior foi carregada e libera a memória associada a ela, evitando vazamentos de memória.
-
-Comentários:
-
-O código contém comentários que explicam as seções importantes do código, o que torna mais fácil entender o que cada parte do programa está fazendo.
-
-Loop Infinito e Encerramento:
-
-O programa continua a operar em um loop infinito até que o usuário escolha a opção "Sair". Quando o usuário escolhe sair, o programa libera a memória alocada e encerra.
+4. Loop Infinito e Encerramento: O programa continua a operar em um loop infinito até que o usuário escolha a opção "Sair". Quando o usuário escolhe sair, o programa libera a memória alocada e encerra.
